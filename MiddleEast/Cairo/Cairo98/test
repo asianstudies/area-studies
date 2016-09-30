@@ -1,0 +1,5 @@
+this is a test for chmod
+
+For user to have read/write, but other only read, do a
+
+$ chmod 644 test

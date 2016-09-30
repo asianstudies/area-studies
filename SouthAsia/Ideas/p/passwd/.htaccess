@@ -1,0 +1,8 @@
+AuthUserFile /web/data/area-studies/SouthAsia/Ideas/p/passwd/.htpasswd 
+          AuthGroupFile /web/data/area-studies/SouthAsia/Ideas/p/passwd/.htgroup
+          AuthName Writings
+          AuthType Basic 
+
+          <Limit GET> 
+          require group my-users
+          </Limit> 

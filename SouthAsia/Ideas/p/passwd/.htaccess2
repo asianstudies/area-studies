@@ -1,0 +1,8 @@
+AuthUserFile /home/pm9k/public_html/SouthAsia/Ideas/lika/.htpasswd 
+          AuthGroupFile /dev/null 
+          AuthName Writings
+          AuthType Basic 
+
+          <Limit GET> 
+          require user lika
+          </Limit> 

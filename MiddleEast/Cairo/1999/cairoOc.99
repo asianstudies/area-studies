@@ -1,0 +1,512 @@
+From pm9k@unix.mail.Virginia.EDU Mon Oct 25 12:38:52 1999
+X-UIDL: 8a37aa7367899f64a9b112d1336abc1c
+Received: from node14.unix.Virginia.EDU (node14.unix.Virginia.EDU [128.143.2.48])
+	by unix.mail.Virginia.EDU (8.8.7/8.8.7) with ESMTP id MAA95308
+	for <pm9k@unix.mail.Virginia.EDU>; Mon, 25 Oct 1999 12:38:51 -0400
+Received: (from pm9k@localhost) by node14.unix.Virginia.EDU (8.8.5/8.6.6) id MAA65834; Mon, 25 Oct 1999 12:38:50 -0400
+Date: Mon, 25 Oct 1999 12:38:50 -0400
+From: Philip McEldowney <pm9k@unix.mail.Virginia.EDU>
+Message-Id: <199910251638.MAA65834@node14.unix.Virginia.EDU>
+X-Mailer: Mail User's Shell (7.2.6 03/03/1995)
+To: gtc@virginia.edu (G. Crafts), ms@virginia.edu (M. Sawaie)
+Subject: Cairo Rept
+Status: OR
+
+	George and Muhammad
+
+	I will forward the Cairo Annual Report to you when I receive it.
+
+	--Philip Mc
+
+From nem2x@tetra.mail.virginia.edu Mon Nov  1 11:54:25 1999
+X-UIDL: 631c88a5b6f9727b3c9e0d4e35179200
+Received: from mail.virginia.edu (mail.Virginia.EDU [128.143.2.9])
+	by unix.mail.Virginia.EDU (8.8.7/8.8.7) with SMTP id LAA136820
+	for <pm9k@unix.mail.virginia.edu>; Mon, 1 Nov 1999 11:54:23 -0500
+Received: from tetra.mail.virginia.edu by mail.virginia.edu id aa06626;
+          1 Nov 99 11:54 EST
+Received: from alderman.lib.virginia.edu (bootp-166-173.bootp.Virginia.EDU [128.143.166.173])
+	by tetra.mail.Virginia.EDU (8.8.7/8.8.7) with SMTP id LAA23980
+	for <pm9k@virginia.edu>; Mon, 1 Nov 1999 11:54:19 -0500 (EST)
+From: "Neamat E. Mahmoud" <nem2x@cms.mail.virginia.edu>
+To: pm9k@virginia.edu
+Subject: RUSH FOR SAWAIE
+Message-ID: <SIMEON.9911011121.A@alderman.lib.virginia.edu>
+Date: Mon, 1 Nov 1999 11:54:21 -0500 (Eastern Standard Time)
+X-Mailer: Simeon for Win32 Version 4.1.4 Build (40)
+X-Authentication: IMSP
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; CHARSET=US-ASCII
+Priority: A
+Status: ORS
+
+Dear Phil,
+
+Please send a rush request via e-mail to Cairo for this 
+title requested by Prof. Sawaie.  Thanks,
+
+Nana
+
+(From NEM2X at port 246)
+
+CREATE ORDER              119293                   2000  1
+
+
+
+  (1 LINES)
+       new order ID:119293                      order type:FIRM
+      new vendor ID:LCCAIRO
+
+       date created:11/1/1999                 date modified:11/1/1999
+         date ready:NEVER                       date mailed:11/1/1999
+      date to claim:NEVER                    date to cancel:NEVER
+
+     copies ordered:1                       copies not rcvd:1
+    copies invoiced:0                        copies claimed:0
+        copies paid:0                      copies cancelled:0
+
+ ordered/not funded:           $0.00    funded/not invoiced:           $0.00
+  invoiced/not paid:           $0.00            amount paid:           $0.00
+       total amount:           $0.00
+
+
+
+
+
+  INSTRUCT      RUSH
+  NOTE
+  COMMENT
+
+
+
+
+
+   line item #:1       requisition number:
+
+   call number:XX(2960674.1)
+    or item ID:
+   bib entries:ACQ
+
+              Author:g Shawqi, Ahmad, 1868-1932.
+               Title:Majnun Layla.
+    Publication info:[al-Qahirah, al-Maktabah al-Tijariyah
+                     al-Kubra, 1964]
+
+  additional line item information--
+  RECNOTE        c;rlin/pm9k;nem2x
+  CATALOG#
+  DESC           EXP-F
+  INSTRUCT       RUSH
+  SHIPTO
+  NOTE
+  COMMENT
+  CLAIM
+  FORMAT         pb
+  RECDPCS
+  CANCEL
+
+
+    unit price:$0.00            currency:US           exch:TABLE
+   # of copies:1                discount:TABLE
+      extended:$0.00              native:$0.00
+                                   parts:
+   req user ID:284646050            name:SAWAIE, MOHAMMED
+
+  date created:11/1/1999          mailed:NEVER
+
+   Status Alert! Fund over encumbered/spent
+ INSERT FUNDING/DISTRIBUTION/CLAIM/CANCEL SEGMENTS BELOW:
+
+
+ fund ID:AL-APV-ME                                        funded copies:1
+ holding code:AL-BK                  ship:                    # copies:1
+
+
+
+--- End Forwarded Message ---
+
+
+
+From nem2x@tetra.mail.virginia.edu Mon Nov  1 12:04:39 1999
+X-UIDL: 3da46afe26d70edb4115fe6e9647adc4
+Received: from mail.virginia.edu (mail.Virginia.EDU [128.143.2.9])
+	by unix.mail.Virginia.EDU (8.8.7/8.8.7) with SMTP id MAA25704;
+	Mon, 1 Nov 1999 12:04:38 -0500
+Received: from tetra.mail.virginia.edu by mail.virginia.edu id aa15301;
+          1 Nov 99 12:04 EST
+Received: from alderman.lib.virginia.edu (bootp-166-173.bootp.Virginia.EDU [128.143.166.173])
+	by tetra.mail.Virginia.EDU (8.8.7/8.8.7) with SMTP id MAA28744;
+	Mon, 1 Nov 1999 12:04:23 -0500 (EST)
+From: "Neamat E. Mahmoud" <nem2x@cms.mail.virginia.edu>
+To: ms@virginia.edu
+Cc: pm9k@virginia.edu
+Subject: Majnun laila
+Message-ID: <SIMEON.9911011215.B@alderman.lib.virginia.edu>
+Date: Mon, 1 Nov 1999 12:03:15 -0500 (Eastern Standard Time)
+X-Mailer: Simeon for Win32 Version 4.1.4 Build (40)
+X-Authentication: IMSP
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; CHARSET=US-ASCII
+Priority: A
+Status: ORS
+
+Professor Sawaie,
+
+We are now requesting a copy of the title "Majnun laila" 
+which you have requested.  We are ordering the most 
+recent Arabic edition (c1964). We will process the book 
+asap, upon receipt.
+
+              Author: Shawqi, Ahmad, 1868-1932.
+               Title: Majnun Layla.
+    Publication info: [al-Qahirah, al-Maktabah 
+al-Tijariyah al-Kubra, 1964]
+
+
+
+
+
+From pm9k@unix.mail.Virginia.EDU Mon Nov  1 14:06:55 1999
+X-UIDL: 313b100f7a05fdad959e33086eb3290e
+Received: from node5.unix.Virginia.EDU (node5.unix.Virginia.EDU [128.143.2.35])
+	by unix.mail.Virginia.EDU (8.8.7/8.8.7) with ESMTP id OAA141710
+	for <pm9k@unix.mail.Virginia.EDU>; Mon, 1 Nov 1999 14:06:54 -0500
+Received: (from pm9k@localhost) by node5.unix.Virginia.EDU (8.8.5/8.6.6) id OAA40384; Mon, 1 Nov 1999 14:06:51 -0500
+Date: Mon, 1 Nov 1999 14:06:51 -0500
+From: Philip McEldowney <pm9k@unix.mail.Virginia.EDU>
+Message-Id: <199911011906.OAA40384@node5.unix.Virginia.EDU>
+X-Mailer: Mail User's Shell (7.2.6 03/03/1995)
+To: leilabks@intouch.com
+Subject: Books?
+Status: OR
+
+	Dear sirs, 
+
+	The University of Virginia would like to inquire about acquiring
+two books directly from you: if you have them in stock; what they might
+cost to us; and what it might cost to have them shipped air mail versus
+regular shipping; and what type of payment [pre-paid, credit card] format
+we might be able to use to quickly pay for these titles?
+
+The two titles are 
+
+1) Sawaie, Mohammed. Azmat al-mustalah al-'Arabi fi al-qarn al-tasi' 'ashar
+: muqaddimah tarikhiyah 'ammah / Muhammad Sawa'i. al-Tab'ah 1. Bayrut : Dar
+al-Gharb al-Islami, 1999. 159, 14 p. ; 24 cm.  LCN: 99897435
+
+and 2) Ahmad Shawqi's Majmun Layla. [160 p. - varies pages and publication
+date]
+
+	Thank you for any information you might supply.
+
+	--Philip McEldowney, Selector of library books at
+	  The Univeristy of Virginia
+	  pm9k@virginia.edu
+
+From izzat@almaktabah.com Tue Nov 16 06:36:42 1999
+X-UIDL: 069495a6a3f65d2a0b27b2605f178333
+Received: from mail.virginia.edu (mail.Virginia.EDU [128.143.2.9])
+	by unix.mail.Virginia.EDU (8.8.7/8.8.7) with SMTP id GAA57084
+	for <pm9k@unix.mail.virginia.edu>; Tue, 16 Nov 1999 06:36:41 -0500
+Received: from cordoba.cyberia.net.lb by mail.virginia.edu id aa21208;
+          16 Nov 99 6:36 EST
+Received: from sand.cyberia.net.lb ([195.112.195.75])
+          by cordoba.cyberia.net.lb (Post.Office MTA v3.5.3 release 223
+          ID# 0-0U10L2S100V35) with ESMTP id lb for <pm9k@virginia.edu>;
+          Tue, 16 Nov 1999 06:24:26 -0500
+Received: from f24 ([195.112.203.36]) by sand.cyberia.net.lb
+          (Netscape Messaging Server 3.6)  with SMTP id AAADC3
+          for <pm9k@virginia.edu>; Tue, 16 Nov 1999 13:34:51 +0300
+From: Izzat Soubra <izzat@almaktabah.com>
+To: pm9k@virginia.edu
+MMDF-Warning:  Parse error in original version of preceding line at mail.virginia.edu
+Subject:  BookFairs
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+Date: Tue, 16 Nov 1999 13:34:51 +0300
+Message-ID: <772805BAD7B.AAADC3@sand.cyberia.net.lb>
+Status: OR
+
+
+To       : all our firends at www.almaktabah.com
+>From    : Izzat@almaktabah.com
+Subject : BookFairs 
+
+
+
+Dear Firends , 
+
+On Nov. 19th , a major event by the Arabic Cultural Club 
+is opened : the 43rd Arab Book Fair .This event is sponsored 
+by Our Prime Minister .
+
+Shortly follows the Association of Publishers Book fair 
+sponsored by our Speaker of the Parliment and then Intelias 
+Cultural Movement Book Fair sponsored by the President himself .
+
+We take this opportunity with this wide display of Books and 
+publishers in Beirut in the coming weeks to search for any books
+which are of interest to you .
+
+We will be able to advise on new titles,subjects,
+authors , publishers , etc... during this period. 
+
+Send me your requirements now .
+Use a simple email to izzat@almaktabah.com . 
+If you want to use the fax the no. is 961-1-790142
+
+Enjoy your day 
+tahiyatoona 
+Izzat
+
+ 
+
+
+From kkm7m@unix.mail.virginia.edu Wed Dec  1 10:54:17 1999
+X-UIDL: aac0d8cc36452e52e658d8582d9dd133
+Received: from mail.virginia.edu (mail.Virginia.EDU [128.143.2.9])
+	by unix.mail.Virginia.EDU (8.8.7/8.8.7) with SMTP id KAA42692
+	for <pm9k@unix.mail.virginia.edu>; Wed, 1 Dec 1999 10:54:12 -0500
+Received: from node15.unix.virginia.edu by mail.virginia.edu id aa18417;
+          1 Dec 99 10:54 EST
+Received: (from kkm7m@localhost) by node15.unix.Virginia.EDU (8.8.5/8.6.6) id KAA61786 for pm9k@virginia.edu; Wed, 1 Dec 1999 10:54:08 -0500
+Resent-Date: Wed, 1 Dec 1999 10:54:08 -0500
+Resent-From: "Karen K. Marshall" <kkm7m@unix.mail.virginia.edu>
+Resent-Message-Id: <199912011554.KAA61786@node15.unix.Virginia.EDU>
+Message-Id: <199912011554.KAA61786@node15.unix.Virginia.EDU>
+X-Mailer: Mail User's Shell (7.2.6 03/03/1995)
+Resent-To: pm9k@virginia.edu
+From: "Karen K. Marshall" <kkm7m@node12.unix.virginia.edu>
+Date: Thu, 18 Nov 1999 12:50:38 -0500
+X-Mailer: Mail User's Shell (7.2.6 03/03/1995)
+To: jrs2r@virginia.edu
+Subject: 1-68090-38430
+Cc: pm9k@virginia.edu, grt8r@virginia.edu
+Status: OR
+
+Hi Jim.  Can you please go ahead and transfer $13,500 into
+Alderman-Middle East Approval fund 1-68090-38430.  Please also hold off
+on moving this fund from Social Sciences to Humanities or AMEL until I
+have had more of a chance to look at the content.  Thanks very much!
+--k
+
+
+From pm9k@unix.mail.Virginia.EDU Fri Dec  3 09:47:15 1999
+X-UIDL: 0cf11a199ce19a10c2c8a1db32f45804
+Received: from node13.unix.Virginia.EDU (node13.unix.Virginia.EDU [128.143.2.47])
+	by unix.mail.Virginia.EDU (8.8.7/8.8.7) with ESMTP id JAA139132
+	for <pm9k@unix.mail.Virginia.EDU>; Fri, 3 Dec 1999 09:47:14 -0500
+Received: (from pm9k@localhost) by node13.unix.Virginia.EDU (8.8.5/8.6.6) id JAA86146; Fri, 3 Dec 1999 09:47:12 -0500
+Date: Fri, 3 Dec 1999 09:47:12 -0500
+From: Philip McEldowney <pm9k@unix.mail.Virginia.EDU>
+Message-Id: <199912031447.JAA86146@node13.unix.Virginia.EDU>
+X-Mailer: Mail User's Shell (7.2.6 03/03/1995)
+To: jgen@loc.gov (J. Gentner)
+Subject: Cairo Bill
+Status: ORS
+
+	How to get $13,500 for the Cairo Bill to you the fastest?  so that
+UVa can start selecting monographs right away? and might it still be
+possible to unsubscribe to some Cairo serials we have been getting and see
+about subscribing to some others we want to get?
+
+	I can make a xerox of this years Cairo bill for the U of Virginia,
+modify it and put in the $13,500; and copies on to you.  Even if I try
+hard, UVa may not be able to process this faster than one month.  Or you
+might xerox a copy of a new, revised Cairo bill to me, which would indicate
+a $13,500 payment from us.
+
+	The Selectors committee has finally met and determined to provide
+$13,500 for the remainder of the Cairo bill.  If you recall, at first (in
+Sep/Oct) UVa sent in $4000 to try to ensure that serials would continue;
+Cairo and you reported back to me that another $1,??? was needed to cover
+that serials payment, and you transfered that $1,??? from India to Cairo to
+cover the Cairo serials.  The $13,500 is just for this year and is based on
+the stipulation that I/Middle East professors have to come up with a 4%
+serials reduction or around $168.   
+
+	The ME language professors came up with about 15 titles worth
+around $800 which they said could be cut; but we are checking with the
+political science and history depts to see if the lang profs decisions are
+okay with them, etc.  Plus the lang profs want some 7 other titles, which
+we are not getting, for us to start subscribing to.  So, we need to get
+that unsubscribe information to you and Cairo, plus indentify and find out
+if we can subscribe to some new titles.  Sometime.  Sooner the better - is
+there a serials person I can email in Cairo?
+
+	So, suggestions on how to get the $13,500 to you fastest? when to
+start monographic title ordering fastest? and unsubscribe/subscribe to some
+serials titles fastest?
+
+	--Philip Mc
+
+From pm9k@unix.mail.Virginia.EDU Mon Dec  6 17:00:33 1999
+X-UIDL: 0602b472aaf008abb4c6156915b057be
+Received: from node2.unix.Virginia.EDU (node2.unix.Virginia.EDU [128.143.2.32])
+	by unix.mail.Virginia.EDU (8.8.7/8.8.7) with ESMTP id RAA182070
+	for <pm9k@unix.mail.Virginia.EDU>; Mon, 6 Dec 1999 17:00:31 -0500
+Received: (from pm9k@localhost) by node2.unix.Virginia.EDU (8.8.5/8.6.6) id RAA52412; Mon, 6 Dec 1999 17:00:30 -0500
+Date: Mon, 6 Dec 1999 17:00:30 -0500
+From: Philip McEldowney <pm9k@unix.mail.Virginia.EDU>
+Message-Id: <199912062200.RAA52412@node2.unix.Virginia.EDU>
+X-Mailer: Mail User's Shell (7.2.6 03/03/1995)
+To: lfc9k@virginia.edu (L. Clendenning)
+Subject: Ald-ME
+Status: OR
+
+	Lynda, 
+
+	This was the message which Karen Marshall sent out a while back.
+
+	But I will hold off until I hear further.
+
+	--Philip Mc
+
+On Nov 18, 12:50, "Karen K. Marshall" wrote:
+> Subject: 1-68090-38430
+> Hi Jim.  Can you please go ahead and transfer $13,500 into
+> Alderman-Middle East Approval fund 1-68090-38430.  Please also hold off
+> on moving this fund from Social Sciences to Humanities or AMEL until I
+> have had more of a chance to look at the content.  Thanks very much!
+> --k
+> 
+> -- End of excerpt from "Karen K. Marshall" <kkm7m@node12.unix.virginia.edu>
+
+From jgen@loc.gov Tue Dec  7 12:22:26 1999
+X-UIDL: eda3dc147c774b713fb287fee6908c77
+Received: from rs8.loc.gov (rs8.loc.gov [140.147.248.8])
+	by unix.mail.Virginia.EDU (8.8.7/8.8.7) with ESMTP id MAA80508
+	for <pm9k@unix.mail.virginia.edu>; Tue, 7 Dec 1999 12:22:07 -0500
+Received: from jgen.loc.gov (jgen.loc.gov [140.147.33.124])
+          by rs8.loc.gov (8.8.4/8.8.4) with SMTP
+	  id MAA50644; Tue, 7 Dec 1999 12:21:30 -0500
+Message-Id: <3.0.5.32.19991207122129.00794d50@rs8.loc.gov>
+X-Sender: jgen@rs8.loc.gov
+X-Mailer: QUALCOMM Windows Eudora Light Version 3.0.5 (32)
+Date: Tue, 07 Dec 1999 12:21:29 -0500
+To: Philip McEldowney <pm9k@unix.mail.virginia.edu>
+From: "James N. Gentner" <jgen@loc.gov>
+Subject: Re: Cairo Bill
+Cc: lmul@rs8.loc.gov, rdin@rs8.loc.gov, mabd@rs8.loc.gov
+In-Reply-To: <199912031447.JAA86146@node13.unix.Virginia.EDU>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by unix.mail.Virginia.EDU id MAA80508
+Status: ORS
+
+Philip,
+
+	The fastest way to get the $13,500 would be for you to write a personal check and then be reimbursed by the State of Virginia.  Not sound business practice I fear, so what are the other alternatives?
+
+	I will send you a supplemental bill for $13,500.  I can fax you a copy as well as mail.  Is your fax still:  804-924-1431?
+
+	Concerning serial cuts:  once you send a list of serial cancelations to either Laila Mulgaokar, the field director (lmul@loc.gov), or Ms. Muna Abdoon, the of serials in the Cairo office (mabd@loc.gov) that may free up some cash for monographs.  (I copy Laila, Muna, and Rabab Mohi el Din the had of Administration in Cairo on this in the hopes that they will be able to give you current fiscal data.)
+
+	As soon as you have $$ in your account that is not obligated, you may select monographs.  Perhaps Cairo can give you better advise vis-à-vis selection based on your current financial situation.
+
+James.
+
+At 09:47 12/3/1999 -0500, you wrote:
+>	How to get $13,500 for the Cairo Bill to you the fastest?  so that
+>UVa can start selecting monographs right away? and might it still be
+>possible to unsubscribe to some Cairo serials we have been getting and see
+>about subscribing to some others we want to get?
+>
+>	I can make a xerox of this years Cairo bill for the U of Virginia,
+>modify it and put in the $13,500; and copies on to you.  Even if I try
+>hard, UVa may not be able to process this faster than one month.  Or you
+>might xerox a copy of a new, revised Cairo bill to me, which would indicate
+>a $13,500 payment from us.
+>
+>	The Selectors committee has finally met and determined to provide
+>$13,500 for the remainder of the Cairo bill.  If you recall, at first (in
+>Sep/Oct) UVa sent in $4000 to try to ensure that serials would continue;
+>Cairo and you reported back to me that another $1,??? was needed to cover
+>that serials payment, and you transfered that $1,??? from India to Cairo to
+>cover the Cairo serials.  The $13,500 is just for this year and is based on
+>the stipulation that I/Middle East professors have to come up with a 4%
+>serials reduction or around $168.   
+>
+>	The ME language professors came up with about 15 titles worth
+>around $800 which they said could be cut; but we are checking with the
+>political science and history depts to see if the lang profs decisions are
+>okay with them, etc.  Plus the lang profs want some 7 other titles, which
+>we are not getting, for us to start subscribing to.  So, we need to get
+>that unsubscribe information to you and Cairo, plus indentify and find out
+>if we can subscribe to some new titles.  Sometime.  Sooner the better - is
+>there a serials person I can email in Cairo?
+>
+>	So, suggestions on how to get the $13,500 to you fastest? when to
+>start monographic title ordering fastest? and unsubscribe/subscribe to some
+>serials titles fastest?
+>
+>	--Philip Mc
+>
+
+From pm9k@unix.mail.Virginia.EDU Tue Dec  7 12:59:20 1999
+X-UIDL: ff22b049e45c0a3e96c269928e4fe0b8
+Received: from node3.unix.Virginia.EDU (node3.unix.Virginia.EDU [128.143.2.33])
+	by unix.mail.Virginia.EDU (8.8.7/8.8.7) with ESMTP id MAA179998
+	for <pm9k@unix.mail.Virginia.EDU>; Tue, 7 Dec 1999 12:59:17 -0500
+Received: (from pm9k@localhost) by node3.unix.Virginia.EDU (8.8.5/8.6.6) id MAA82874; Tue, 7 Dec 1999 12:59:16 -0500
+Date: Tue, 7 Dec 1999 12:59:16 -0500
+From: Philip McEldowney <pm9k@unix.mail.Virginia.EDU>
+Message-Id: <199912071759.MAA82874@node3.unix.Virginia.EDU>
+X-Mailer: Mail User's Shell (7.2.6 03/03/1995)
+To: "James N. Gentner" <jgen@loc.gov>
+Subject: Re: Cairo Bill
+Cc: lmul@rs8.loc.gov, rdin@rs8.loc.gov, mabd@rs8.loc.gov
+Status: ORS
+
+        James and others,
+
+        Fax number is still correct at 804-924-1431; please send
+supplemental bill.
+
+        Thanks - I'll keep working on this - sending money in on the
+supplemental bill; listing serials (about 10/12) to unsubscribe and find
+out about some others (about 4/5) to possibly subscribe to; and holding
+back on monographic selection until learning there is money available for
+UVa to do so.
+
+        --Philip McEldowney
+          pm9k@virginia.edu
+
+From mabd@rs8.loc.gov Tue Dec  7 13:09:02 1999
+X-UIDL: 1eb313395cda335268719e2c8359d120
+Received: from rs8.loc.gov (rs8.loc.gov [140.147.248.8])
+	by unix.mail.Virginia.EDU (8.8.7/8.8.7) with ESMTP id NAA85690
+	for <pm9k@unix.mail.virginia.edu>; Tue, 7 Dec 1999 13:08:51 -0500
+Received: (from mabd@localhost)
+          by rs8.loc.gov (8.8.4/8.8.4)
+	  id NAA71508 for pm9k@unix.mail.virginia.edu; Tue, 7 Dec 1999 13:08:43 -0500
+Date: Tue, 7 Dec 1999 13:08:43 -0500
+From: Muna Abdoon <mabd@loc.gov>
+Message-Id: <199912071808.NAA71508@rs8.loc.gov>
+Status: OR
+
+
+
+
+Dear MECAP Colleagues, LOC Officers and Vendors:
+
+I will be on a leave of absence from LOC/Cairo from May 9 through November
+23, 1999. My email account (mabd@loc.gov) will be inactive for this time
+period.
+
+Should you need to get in touch with LOC/Cairo regarding serials, binding
+and shipping issues, please contact the Field Director, Ms. Laila
+Mulgaokar.  She can be reached by  email at lmul@loc.gov and by fax at
+20-2-356-0233 and by telephone at 20-2-357-3564.
+
+Thank you.
+
+Muna Abdoon
+Head, Serials and Shipping Section
+Library of Congress
+Cairo, Egypt
+
+
+

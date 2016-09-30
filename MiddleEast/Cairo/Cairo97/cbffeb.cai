@@ -1,0 +1,39 @@
+  List 		Selections
+	
+cbf - 7		# 13 (Already ordered!)
+	
+cbf - 10 	# 3, 6, 7, 9, 10
+	
+cbf -11		# 5, 7, 10
+	
+cbf - 12 	No Selection
+	
+cbf - 13 	# 11
+	
+cbf - 14 	# 4, 8, 11
+	
+cbf - 15 	# 3, 5, 10
+	
+cbf - 16 	# 2
+	
+cbf - 17 	No Selection
+	
+cbf - 18 	# 3
+	
+cbf - 19 	# 8, 14
+	
+cbf - 20 	# 2, 5, 7
+	
+cbf - 21 	# 2, 9, 13, 14
+	
+cbf - 22 	# 2, 5, 6, 7, 9
+	
+cbf - 23 	# 1, 4, 7, 9
+	
+cbf - 24 	# 3, 9, 11
+	
+cbf - 25 	# 3, 5, 7, 10, 13, 15
+	
+cbf - 26 	# 8, 10, 11, 13
+	
+cbf - 27 	# 1, 5, 8, 13

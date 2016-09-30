@@ -1,0 +1,149 @@
+!
+!  .Xresources
+!
+!        Resource file for use with Window Managers
+!  Client-specific resources may be set within this file.  
+!  Attributes which may be modified include window appearance,
+!  color, geometric location, fonts, and behavior.
+!
+!  Refer to the appropriate man page for the application:  
+!   mwm, xterm, xcalc, xcalendar, xrn, etc.
+!
+!  Lines beginning with ! are comments.
+
+! MWM Resources  --  These are only run if you are using the mwm window
+!                    manager.  Run "man mwm" for details.
+
+! Causes icon box to scroll horizontally only
+Mwm*iconBoxSBDisplayPolicy:     horizontal
+! Creates a box to place your icons
+Mwm*useIconBox:			True
+! Sets the icon box's size and location
+Mwm*iconBoxGeometry:		10x1+160+0
+! Sets the icon box's title
+Mwm*iconBoxTitle:		Mwm Window Manager
+! Sets where the icons will appear (on the screen, or in an icon box if it
+! exists)
+Mwm*iconPlacement:		left top
+! "fades" icon of applications that are active
+Mwm*fadeNormalIcon:		True
+! Causes whatever your pointer is over to become the active application
+Mwm*keyboardFocusPolicy:	pointer
+! Causes all border and title decoration to appear on xclock applications
+Mwm*XClock.clientDecoration:	+all
+! Causes all border and title decoration to appear on xbiff applications
+Mwm*xbiff.clientDecoration:	+all
+! Lets you select by hand the location of a new application (unless a specific
+! location is indicated when you run it)
+Mwm*interactivePlacement:	True
+! Sets a foreground color for every application
+Mwm*foreground:			NavyBlue
+! Sets a background color for every application
+Mwm*background:			CadetBlue
+! Sets a foreground color for the active application
+Mwm*activeForeground:		gold
+! Sets a background color for the active application
+Mwm*activeBackground:		IndianRed
+! Sets a foreground color for your menu
+Mwm*menu*foreground:		NavyBlue
+! Sets a background color for your menu
+Mwm*menu*background:		lightsteelblue2
+! Default font for your application titles
+Mwm*fontList:         -adobe-helvetica-bold-r-normal--*-120-*-*-*-*-*-*
+! Default font for your menus
+Mwm*menu*fontList:    -adobe-helvetica-bold-r-normal--*-140-*-*-*-*-*-*
+! Cause the xclock icon not to show up in the icon box
+Mwm*XClock*clientFunctions:     -minimize
+! Cause the xbiff icon not to show up in the icon box
+Mwm*xbiff*clientFunctions:    -minimize
+
+
+! TWM Resources  --  These are only run if you are using the twm window
+!                    manager.  Run "man twm" for details.
+
+! To add a title bar to dialog boxes
+DecorateTransients
+
+! Xterm defaults -- run "man xterm" for details
+! Default font for your xterms
+XTerm*font:		-misc-fixed-medium-*-*-*-*-*-*-*-*-80-*-*
+! Default bold font for your xterms
+XTerm*boldFont:	-misc-fixed-bold-*-*-*-*-*-*-*-*-80-*-*
+! Default geometry of a xterm with vt100 emulation
+XTerm*vt100.geometry:		80x50
+! Default geometry of all other xterms
+XTerm.geometry:			80x50
+! Turns on scroll bars for xterms
+XTerm*scrollBar:		on
+! Determines how many lines are saved after they scroll off the screen
+XTerm*saveLines:		250
+! Sets the default stty modes for an xterm
+XTerm*ttyModes:  erase ^H kill ^X intr ^C susp ^Z
+
+
+!
+! Other application defaults 
+!
+
+
+! Calculator defaults -- run "man xcalc" for details
+
+! Sets the default location of your xcalc
+XCalc.geometry:         250x400-110+0
+! For an HP-type calculator, use the following:
+!XCalc.geometry:         340x200+800+10
+
+
+! Calendar defaults  -- run "man xcal" for details
+
+! Sets the default location of your xcal
+XCalendar.geometry:     288x250+440+160
+
+
+! XFontSel defaults  -- run "man xfontsel" for details
+
+! Sets the default location of your xfontsel
+XFontSel.geometry:       +0+140
+
+! News reader defaults -- run "man xrn" for details
+
+! Sets you default font for xrn
+xrn*font: -*-lucidatypewriter-medium-*-*-*-14-140-*-*-*-*-*-*
+! Sets the default news server for xrn
+xrn*nntpServer:         murdoch.acc.Virginia.EDU
+! Sets the default location and size for xrn
+xrn.geometry:           800x760-0-0
+! Sets the default location and size of your editor in xrn
+xrn*Composition.geometry: 700x760-0-0
+! Sets the default editor for xrn to jove
+xrn.editorCommand:      xterm -e jove %s
+! Sets the default editor for xrn to vi
+!xrn.editorCommand:      xterm -e vi %s
+! Sets xrn so it won't ask you to confirm actions
+xrn.confirmBox:                 off
+! Sorts news by subjects
+xrn.sortedSubjects:             on
+! Defines which buttons exist when looking at articles
+xrn*artButtonList:      artQuit,artScroll,artNext,artNextGroup,artNextUnread,\
+artCatchUp,artGotoArticle,artUnsub,artMarkRead,artMarkUnread,artPost,\
+artExit,artGripe,artKillLocal
+! Defines which buttons exist when looking at newsgroups
+xrn*ngButtonList:       ngQuit,ngRead,ngRescan,ngCheckPoint,ngPost,ngCatchUp,\
+ngSubscribe,ngUnsub,ngGoto,ngAllGroups,ngPrevGroup,ngSelect,ngMove,ngExit
+
+
+! Gnu Emacs (xemacs) defaults
+
+! defines which font is used for emacs
+xemacs.font:		-misc-fixed-medium-*-*-*-*-*-*-*-*-80-*-*
+! defines the size of the emacs window
+xemacs.geometry: 	80x40
+! sets the name of the xemacs icon
+xemacs.iconName:	XEMACS
+
+!
+! End of .Xresources file
+!
+
+
+
