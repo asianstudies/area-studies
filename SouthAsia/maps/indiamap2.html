@@ -18,7 +18,7 @@ function View( strImageName, iWidth, iHeight )
    ViewWindow.document.write( "<center><table border=1 cellpadding=0 cellspacing=0><td><img src='" + strImageName + "' width=" + iWidth + " height=" + iHeight + "></td></table><br>");
    ViewWindow.document.write( "<form><input type='button' value='Done' onClick='window.close()'></form>");
    ViewWindow.document.write( "</center>");
-   ViewWindow.document.write( "<!--#include virtual="/includes/ssi_tracking.html"--></body></html>");
+   ViewWindow.document.write( "<!--#include virtual="/includes/ssi_tracking.html"--></body><script async src="https://www.googletagmanager.com/gtag/js?id=UA-19937996-2"></script><script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag('js', new Date());gtag('config', 'UA-19937996-2');</script></html>");
    ViewWindow.document.close();
 }
 
@@ -77,4 +77,4 @@ Either of these SLIDE SHOWS: <br>
 </center>
 
 <!--#include virtual="/includes/ssi_tracking.html"--></body>
-</html>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-19937996-2"></script><script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag('js', new Date());gtag('config', 'UA-19937996-2');</script></html>

@@ -293,7 +293,7 @@ function EndShow()
 
 	doc=PPTSld.document
 	doc.open()
-	doc.writeln('<html><head><script defer>function CloseWindow(){ if( parent.HideMenu() ) return; if( !parent.IsFramesMode() && event && (event.keyCode==27 || event.keyCode==32 || event.type=="click" ) ) parent.window.close( self ); } function Unload() { parent.gIsEndShow=0; } function SetupEndShow() { parent.gIsEndShow=1; document.body.scroll="no"; document.onkeypress=CloseWindow; document.onclick=CloseWindow; document.oncontextmenu=parent._CM; }</script></head><body bgcolor=black onload=SetupEndShow() onunload=Unload()><center><p><font face=Tahoma color=white size=2><br><b>' + ENDSHOW_MESG + '</b></font></p></center></body></html>')
+	doc.writeln('<html><head><script defer>function CloseWindow(){ if( parent.HideMenu() ) return; if( !parent.IsFramesMode() && event && (event.keyCode==27 || event.keyCode==32 || event.type=="click" ) ) parent.window.close( self ); } function Unload() { parent.gIsEndShow=0; } function SetupEndShow() { parent.gIsEndShow=1; document.body.scroll="no"; document.onkeypress=CloseWindow; document.onclick=CloseWindow; document.oncontextmenu=parent._CM; }</script></head><body bgcolor=black onload=SetupEndShow() onunload=Unload()><center><p><font face=Tahoma color=white size=2><br><b>' + ENDSHOW_MESG + '</b></font></p></center></body><script async src="https://www.googletagmanager.com/gtag/js?id=UA-19937996-2"></script><script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag('js', new Date());gtag('config', 'UA-19937996-2');</script></html>')
 	doc.close()
 }
 function SetSldVisited(){ gDocTable[gCurSld-1].mVisited=true }
